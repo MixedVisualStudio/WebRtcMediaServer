@@ -1,0 +1,9 @@
+{
+  "name": "mixed-vuisual.med-cloud.web-rtc-media-server",
+  "version": "0.0.0",
+  "description": "MixedVuisual.MedCloud.WebRtcMediaServer",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
